@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\rober\source\repos\tcpserver1\tcpserver1\main.cpp(9,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  tcpserver1.vcxproj -> C:\Users\rober\source\repos\tcpserver1\x64\Debug\tcpserver1.exe
